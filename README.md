@@ -18,5 +18,3 @@
 - Entertainment section to run movies and a simple game to fight with boredom
 - Current condition section which uses api and web scraping to scrape latest data about covid-19
 - Downloadable graphical representation of current covid condition for better analysis and use
-## To Do:
-- There is little flaw when submitting form as it takes you to the next page which is correct but on new tab. Will correct it soon
